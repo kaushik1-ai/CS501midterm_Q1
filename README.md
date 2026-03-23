@@ -15,9 +15,9 @@ The UI updates automatically whenever the counter value changes, demonstrating C
 
 ## Screenshots
 
-| Initial State                   | After Increment                 |
+| Before Rotation                   | After Rotation                |
 | ------------------------------- | ------------------------------- |
-| ![Initial](SS/mid_1st_mid1.png) | ![Incremented](SS/1st_mid2.png) |
+| ![Initial](kaushik_midterm_application/SS/1st_mid1.png) | ![Incremented](kaushik_midterm_application/SS/1st_mid2.png) |
 
 ---
 
